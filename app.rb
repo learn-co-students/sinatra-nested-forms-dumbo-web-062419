@@ -20,5 +20,5 @@ module FormsLab
       erb :'pirates/show'
     end
 
-  end
+  #the code is correct mostly, but something is off
 end
